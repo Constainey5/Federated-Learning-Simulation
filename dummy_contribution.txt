@@ -1,1 +1,2 @@
 Commit on 2023-01-04 14:47:52: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
+Commit on 2023-01-06 17:02:27: test: Add unit tests for Federated-Learning-Simulation functionality
