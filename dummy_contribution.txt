@@ -7,3 +7,4 @@ Commit on 2023-02-14 10:33:28: chore: Update dependencies for Federated-Learning
 Commit on 2023-02-14 12:57:20: test: Add unit tests for Federated-Learning-Simulation functionality
 Commit on 2023-02-15 09:16:59: fix: Resolve bug in Federated-Learning-Simulation module
 Commit on 2023-02-17 17:14:34: refactor: Improve code readability in Federated-Learning-Simulation
+Commit on 2023-02-20 17:22:48: Fix API response format in Federated-Learning-Simulation
