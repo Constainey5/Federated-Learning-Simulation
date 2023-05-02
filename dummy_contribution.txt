@@ -21,3 +21,4 @@ Commit on 2023-04-13 09:41:32: feat: Add new feature for Federated-Learning-Simu
 Commit on 2023-04-19 17:55:39: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2023-04-26 17:34:54: feat: Add new feature for Federated-Learning-Simulation
 Commit on 2023-05-01 11:15:30: fix: Resolve bug in Federated-Learning-Simulation module
+Commit on 2023-05-02 15:26:32: Enhance model architecture in Federated-Learning-Simulation
