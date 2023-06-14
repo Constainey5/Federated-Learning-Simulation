@@ -29,3 +29,4 @@ Commit on 2023-05-22 12:26:21: docs: Update README for Federated-Learning-Simula
 Commit on 2023-05-26 10:20:58: Merge pull request #96 from feature/api-integration
 Commit on 2023-06-01 15:26:35: Initial commit for Federated-Learning-Simulation
 Commit on 2023-06-13 12:04:21: docs: Update README for Federated-Learning-Simulation
+Commit on 2023-06-14 15:49:43: Implement user authentication in Federated-Learning-Simulation
