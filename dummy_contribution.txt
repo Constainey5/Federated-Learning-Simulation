@@ -49,3 +49,4 @@ Commit on 2023-09-04 12:58:23: Merge pull request #69 from feature/performance-t
 Commit on 2023-09-05 14:33:45: test: Add unit tests for Federated-Learning-Simulation functionality
 Commit on 2023-09-06 09:33:34: Merge pull request #91 from feature/security-patches
 Commit on 2023-09-06 11:30:04: perf: Optimize Federated-Learning-Simulation performance
+Commit on 2023-09-13 13:58:17: build: Update build configuration for Federated-Learning-Simulation
