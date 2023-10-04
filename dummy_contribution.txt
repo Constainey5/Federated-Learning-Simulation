@@ -55,3 +55,4 @@ Commit on 2023-09-22 11:48:16: Implement UI component in Federated-Learning-Simu
 Commit on 2023-09-25 11:56:30: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2023-10-02 09:35:41: Merge pull request #80 from feature/error-handling
 Commit on 2023-10-03 10:34:28: refactor: Improve code readability in Federated-Learning-Simulation
+Commit on 2023-10-04 12:09:58: docs: Update README for Federated-Learning-Simulation
