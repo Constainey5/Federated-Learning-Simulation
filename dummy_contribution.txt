@@ -63,3 +63,4 @@ Commit on 2023-11-07 11:57:34: build: Update build configuration for Federated-L
 Commit on 2023-11-08 10:33:47: Enhance backend service in Federated-Learning-Simulation
 Commit on 2023-11-08 17:43:41: feat: Add new feature for Federated-Learning-Simulation
 Commit on 2023-11-09 10:43:59: chore: Update dependencies for Federated-Learning-Simulation
+Commit on 2023-11-15 14:21:50: docs: Update README for Federated-Learning-Simulation
