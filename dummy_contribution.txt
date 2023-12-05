@@ -67,3 +67,4 @@ Commit on 2023-11-15 14:21:50: docs: Update README for Federated-Learning-Simula
 Commit on 2023-11-27 10:21:22: perf: Optimize Federated-Learning-Simulation performance
 Commit on 2023-11-28 13:30:40: build: Update build configuration for Federated-Learning-Simulation
 Commit on 2023-11-29 12:50:13: test: Add unit tests for Federated-Learning-Simulation functionality
+Commit on 2023-12-05 13:26:04: chore: Update dependencies for Federated-Learning-Simulation
