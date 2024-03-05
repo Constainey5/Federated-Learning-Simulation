@@ -85,3 +85,4 @@ Commit on 2024-02-05 10:39:02: Initial commit for Federated-Learning-Simulation
 Commit on 2024-02-07 11:40:29: Implement user authentication in Federated-Learning-Simulation
 Commit on 2024-02-22 17:09:37: Implement API endpoint in Federated-Learning-Simulation
 Commit on 2024-03-05 13:17:49: Merge pull request #35 from feature/model-training
+Commit on 2024-03-05 16:18:59: fix: Resolve bug in Federated-Learning-Simulation module
