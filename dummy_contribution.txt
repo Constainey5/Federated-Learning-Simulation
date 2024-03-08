@@ -87,3 +87,4 @@ Commit on 2024-02-22 17:09:37: Implement API endpoint in Federated-Learning-Simu
 Commit on 2024-03-05 13:17:49: Merge pull request #35 from feature/model-training
 Commit on 2024-03-05 16:18:59: fix: Resolve bug in Federated-Learning-Simulation module
 Commit on 2024-03-08 09:43:09: build: Update build configuration for Federated-Learning-Simulation
+Commit on 2024-03-08 14:47:09: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
