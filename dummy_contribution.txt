@@ -91,3 +91,4 @@ Commit on 2024-03-08 14:47:09: ci: Configure CI/CD pipeline for Federated-Learni
 Commit on 2024-03-11 11:22:47: docs: Update README for Federated-Learning-Simulation
 Commit on 2024-03-11 16:33:56: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2024-03-14 10:48:48: Implement user authentication in Federated-Learning-Simulation
+Commit on 2024-03-14 17:44:46: test: Add unit tests for Federated-Learning-Simulation functionality
