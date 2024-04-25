@@ -99,3 +99,4 @@ Commit on 2024-03-28 14:28:53: build: Update build configuration for Federated-L
 Commit on 2024-04-02 14:44:41: refactor: Improve code readability in Federated-Learning-Simulation
 Commit on 2024-04-16 15:13:01: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2024-04-23 16:13:23: fix: Resolve bug in Federated-Learning-Simulation module
+Commit on 2024-04-25 13:52:18: test: Add unit tests for Federated-Learning-Simulation functionality
