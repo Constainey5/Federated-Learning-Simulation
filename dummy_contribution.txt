@@ -103,3 +103,4 @@ Commit on 2024-04-25 13:52:18: test: Add unit tests for Federated-Learning-Simul
 Commit on 2024-05-03 17:03:17: Merge pull request #31 from feature/ui-improvements
 Commit on 2024-05-10 11:26:21: Initial commit for Federated-Learning-Simulation
 Commit on 2024-05-15 09:27:14: style: Format code according to standards in Federated-Learning-Simulation
+Commit on 2024-05-15 11:57:10: Merge pull request #9 from feature/security-patches
