@@ -109,3 +109,4 @@ Commit on 2024-05-20 15:44:21: Initial commit for Federated-Learning-Simulation
 Commit on 2024-05-21 17:53:54: refactor: Improve code readability in Federated-Learning-Simulation
 Commit on 2024-05-23 09:36:34: test: Add unit tests for Federated-Learning-Simulation functionality
 Commit on 2024-05-28 13:39:56: test: Add unit tests for Federated-Learning-Simulation functionality
+Commit on 2024-06-06 16:38:11: test: Add unit tests for Federated-Learning-Simulation functionality
