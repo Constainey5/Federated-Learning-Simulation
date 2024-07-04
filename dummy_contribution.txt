@@ -116,3 +116,4 @@ Commit on 2024-06-24 11:16:59: feat: Add new feature for Federated-Learning-Simu
 Commit on 2024-07-01 13:14:14: build: Update build configuration for Federated-Learning-Simulation
 Commit on 2024-07-02 11:11:42: style: Format code according to standards in Federated-Learning-Simulation
 Commit on 2024-07-03 16:40:38: Merge pull request #99 from feature/error-handling
+Commit on 2024-07-04 10:59:50: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
