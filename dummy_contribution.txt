@@ -123,3 +123,4 @@ Commit on 2024-07-11 16:45:21: style: Format code according to standards in Fede
 Commit on 2024-07-22 09:42:14: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2024-07-23 15:40:53: Implement logging mechanism in Federated-Learning-Simulation
 Commit on 2024-07-23 17:33:59: test: Add unit tests for Federated-Learning-Simulation functionality
+Commit on 2024-07-31 16:08:24: Fix race condition in Federated-Learning-Simulation
