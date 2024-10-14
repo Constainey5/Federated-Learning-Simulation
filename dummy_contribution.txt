@@ -135,3 +135,4 @@ Commit on 2024-09-09 17:40:16: ci: Configure CI/CD pipeline for Federated-Learni
 Commit on 2024-09-12 10:01:16: chore: Update dependencies for Federated-Learning-Simulation
 Commit on 2024-09-26 16:15:13: Implement caching strategy in Federated-Learning-Simulation
 Commit on 2024-10-04 12:09:25: Enhance data loader in Federated-Learning-Simulation
+Commit on 2024-10-14 13:21:13: build: Update build configuration for Federated-Learning-Simulation
