@@ -140,3 +140,4 @@ Commit on 2024-10-14 16:08:36: feat: Add new feature for Federated-Learning-Simu
 Commit on 2024-10-17 11:59:47: Fix incorrect data parsing in Federated-Learning-Simulation
 Commit on 2024-11-08 15:05:48: chore: Update dependencies for Federated-Learning-Simulation
 Commit on 2024-11-14 11:06:39: build: Update build configuration for Federated-Learning-Simulation
+Commit on 2024-11-26 15:43:42: Enhance configuration management in Federated-Learning-Simulation
