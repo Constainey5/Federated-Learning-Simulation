@@ -145,3 +145,4 @@ Commit on 2024-11-27 15:49:30: style: Format code according to standards in Fede
 Commit on 2024-12-02 14:12:47: perf: Optimize Federated-Learning-Simulation performance
 Commit on 2024-12-13 17:44:57: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2024-12-20 11:00:33: feat: Add new feature for Federated-Learning-Simulation
+Commit on 2024-12-23 11:18:00: test: Add unit tests for Federated-Learning-Simulation functionality
