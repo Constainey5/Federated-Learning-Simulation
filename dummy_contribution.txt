@@ -159,3 +159,4 @@ Commit on 2025-02-24 09:30:08: test: Add unit tests for Federated-Learning-Simul
 Commit on 2025-02-24 17:39:11: test: Add unit tests for Federated-Learning-Simulation functionality
 Commit on 2025-02-25 16:03:54: Initial commit for Federated-Learning-Simulation
 Commit on 2025-03-13 16:14:21: style: Format code according to standards in Federated-Learning-Simulation
+Commit on 2025-03-18 12:12:45: build: Update build configuration for Federated-Learning-Simulation
