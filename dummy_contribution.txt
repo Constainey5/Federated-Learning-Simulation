@@ -167,3 +167,4 @@ Commit on 2025-04-09 09:48:50: Implement logging mechanism in Federated-Learning
 Commit on 2025-04-09 16:10:49: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
 Commit on 2025-04-10 13:43:01: perf: Optimize Federated-Learning-Simulation performance
 Commit on 2025-04-16 10:15:46: chore: Update dependencies for Federated-Learning-Simulation
+Commit on 2025-04-17 10:50:13: refactor: Improve code readability in Federated-Learning-Simulation
