@@ -182,3 +182,4 @@ Commit on 2025-07-02 10:12:24: Implement caching strategy in Federated-Learning-
 Commit on 2025-07-07 17:12:22: Merge pull request #61 from feature/user-auth
 Commit on 2025-07-09 10:41:18: Enhance frontend in Federated-Learning-Simulation
 Commit on 2025-07-14 11:04:08: Merge pull request #28 from feature/api-integration
+Commit on 2025-07-24 13:09:09: docs: Update README for Federated-Learning-Simulation
