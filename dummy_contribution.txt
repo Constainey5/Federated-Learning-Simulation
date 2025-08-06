@@ -184,3 +184,4 @@ Commit on 2025-07-09 10:41:18: Enhance frontend in Federated-Learning-Simulation
 Commit on 2025-07-14 11:04:08: Merge pull request #28 from feature/api-integration
 Commit on 2025-07-24 13:09:09: docs: Update README for Federated-Learning-Simulation
 Commit on 2025-07-28 14:42:44: perf: Optimize Federated-Learning-Simulation performance
+Commit on 2025-08-06 13:59:51: ci: Configure CI/CD pipeline for Federated-Learning-Simulation
