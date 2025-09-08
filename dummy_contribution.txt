@@ -197,3 +197,4 @@ Commit on 2025-08-28 10:32:38: Merge pull request #9 from feature/api-integratio
 Commit on 2025-08-29 16:02:50: Fix off-by-one error in Federated-Learning-Simulation
 Commit on 2025-09-01 13:09:42: Fix race condition in Federated-Learning-Simulation
 Commit on 2025-09-04 09:02:40: style: Format code according to standards in Federated-Learning-Simulation
+Commit on 2025-09-08 16:02:10: Fix UI glitch in Federated-Learning-Simulation
