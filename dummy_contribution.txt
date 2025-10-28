@@ -205,3 +205,4 @@ Commit on 2025-09-29 15:38:47: Fix UI glitch in Federated-Learning-Simulation
 Commit on 2025-10-02 11:09:54: chore: Update dependencies for Federated-Learning-Simulation
 Commit on 2025-10-20 15:27:46: refactor: Improve code readability in Federated-Learning-Simulation
 Commit on 2025-10-22 10:45:08: docs: Update README for Federated-Learning-Simulation
+Commit on 2025-10-28 14:45:42: docs: Update README for Federated-Learning-Simulation
