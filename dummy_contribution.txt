@@ -207,3 +207,4 @@ Commit on 2025-10-20 15:27:46: refactor: Improve code readability in Federated-L
 Commit on 2025-10-22 10:45:08: docs: Update README for Federated-Learning-Simulation
 Commit on 2025-10-28 14:45:42: docs: Update README for Federated-Learning-Simulation
 Commit on 2025-10-30 11:29:20: Enhance model architecture in Federated-Learning-Simulation
+Commit on 2025-11-06 13:11:41: build: Update build configuration for Federated-Learning-Simulation
