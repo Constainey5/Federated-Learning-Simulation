@@ -211,3 +211,4 @@ Commit on 2025-11-06 13:11:41: build: Update build configuration for Federated-L
 Commit on 2025-11-06 16:22:21: style: Format code according to standards in Federated-Learning-Simulation
 Commit on 2025-11-07 10:19:24: build: Update build configuration for Federated-Learning-Simulation
 Commit on 2025-11-07 14:15:14: build: Update build configuration for Federated-Learning-Simulation
+Commit on 2025-11-10 11:16:35: docs: Update README for Federated-Learning-Simulation
