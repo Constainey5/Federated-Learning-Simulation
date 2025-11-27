@@ -217,3 +217,4 @@ Commit on 2025-11-12 09:15:56: test: Add unit tests for Federated-Learning-Simul
 Commit on 2025-11-12 10:19:56: Initial commit for Federated-Learning-Simulation
 Commit on 2025-11-13 13:53:57: build: Update build configuration for Federated-Learning-Simulation
 Commit on 2025-11-18 11:11:17: style: Format code according to standards in Federated-Learning-Simulation
+Commit on 2025-11-27 11:33:48: Merge pull request #86 from feature/api-integration
