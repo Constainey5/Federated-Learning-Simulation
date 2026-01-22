@@ -227,3 +227,4 @@ Commit on 2025-12-18 17:28:02: ci: Configure CI/CD pipeline for Federated-Learni
 Commit on 2025-12-23 10:46:05: style: Format code according to standards in Federated-Learning-Simulation
 Commit on 2025-12-24 11:34:38: fix: Resolve bug in Federated-Learning-Simulation module
 Commit on 2026-01-15 10:00:38: style: Format code according to standards in Federated-Learning-Simulation
+Commit on 2026-01-22 14:35:26: chore: Update dependencies for Federated-Learning-Simulation
