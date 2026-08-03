@@ -268,3 +268,4 @@ Commit on 2026-07-15 11:27:35: style: Format code according to standards in Fede
 Commit on 2026-07-20 16:09:53: docs: Update README for Federated-Learning-Simulation
 Commit on 2026-07-24 10:44:24: style: Format code according to standards in Federated-Learning-Simulation
 Commit on 2026-07-30 16:56:16: Fix API response format in Federated-Learning-Simulation
+Commit on 2026-08-03 17:32:22: build: Update build configuration for Federated-Learning-Simulation
